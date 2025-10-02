@@ -5,7 +5,7 @@ public class StreamsExamples {
     public static void main(String[] args) {
         List<List<String>> listOfLists = Arrays.asList(
 
-            Arrays.asList("Raghu", "Yashu","Reyansh", "Reyanvi"),
+            Arrays.asList("Ram", "Sita","Kush", "Lav"),
             Arrays.asList("Hyderabad", "Bangalore","Vijayawada", "Tanuku"),
             Arrays.asList("Apple", "Bus","Ball", "Van")
         );
@@ -17,3 +17,4 @@ public class StreamsExamples {
         System.out.println(flatList);                                
         }
 }
+
